@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/QtDemo/main.qml</file>
+        <file>qml/QtDemo/Modes.qml</file>
+        <file>qml/QtDemo/Navigator.qml</file>
+        <file>qml/QtDemo/Steam.qml</file>
+        <file>qml/QtDemo/Temperature.qml</file>
+        <file>qml/QtDemo/Clock.qml</file>
+        <file>qml/QtDemo/BackGround.qml</file>
+        <file>qml/QtDemo/Wifi.qml</file>
+	<file>qml/QtDemo/Settings.qml</file>
+    </qresource>
+</RCC>
